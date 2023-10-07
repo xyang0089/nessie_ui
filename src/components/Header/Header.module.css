@@ -1,0 +1,128 @@
+.logosCapitalOne.logosCapitalOne {
+  left: calc(50% - 336px);
+  top: 50%;
+  width: 96px;
+  height: 34px;
+  transform: translate(-50%, -50%);
+}
+.capitalOneLogo.capitalOneLogo {
+  left: -0.0001px;
+  top: 0.1991px;
+  width: 95.9533px;
+  height: 33.3771px;
+}
+.buttonsCompact16pxPaddingActiv.buttonsCompact16pxPaddingActiv {
+  left: 79.3945%;
+  right: 12.5%;
+  top: 50%;
+  height: 32px;
+  transform: translateY(-50%);
+}
+.button {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 21.6867%;
+  right: 21.6867%;
+  top: 50%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: translateY(-50%);
+}
+.root {
+  position: relative;
+  width: 1024px;
+  height: 96px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.rectangle {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  outline: solid 1px #979797;
+  outline-offset: -1px;
+  background-color: #f4f4f4;
+}
+.docs {
+  color: #4a4a4a;
+  font-size: 16px;
+  line-height: 20px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 72.8516%;
+  right: 23.7305%;
+  top: 50%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: translateY(-50%);
+}
+.gettingStarted {
+  color: #4a4a4a;
+  font-size: 16px;
+  line-height: 20px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 48.9258%;
+  right: 40.4297%;
+  top: 50%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: translateY(-50%);
+}
+.home {
+  color: #4a4a4a;
+  font-size: 16px;
+  line-height: 20px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 41.6992%;
+  right: 54.1992%;
+  top: 50%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: translateY(-50%);
+}
+.examples {
+  color: #4a4a4a;
+  font-size: 16px;
+  line-height: 20px;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 63.0859%;
+  right: 30.2734%;
+  top: 50%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: translateY(-50%);
+}
