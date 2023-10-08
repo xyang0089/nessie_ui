@@ -1,20 +1,20 @@
 import React from 'react';
-import logoImage from '../../../static/logo.png'; // Import your logo image
+import logoImage from '../../static/logo.png'; // Import your logo image
 
-import classes from './Header.module.css';
+import './Header.css';
 
 const Header = () => {
   return (
-    <div className={classes.header}>
-      <div className={classes.logo}>
-        <img src={logoImage} alt="Logo" className={classes.logoImage} />
+    <div className='header-container'>
+      <div className='logo'>
+        <img src={logoImage} alt="Logo"/>
       </div>
-      <div className={classes.buttons}>
-        <button className={classes.loginButton}>Login</button>
-        <button className={classes.examplesButton}>Examples</button>
-        <button className={classes.homeButton}>Home</button>
-        <button className={classes.gettingStartedButton}>Getting Started</button>
-        <button className={classes.docsButton}>Docs</button>
+      <div className='buttons'>
+      <button className='home'>Home</button>
+      <button className='gettingStarted'>Getting Started</button>
+      <button className='examples'>Examples</button>
+      <button className='docs'>Docs</button>
+      <button className='login'>Login</button>
       </div>
     </div>
   );
